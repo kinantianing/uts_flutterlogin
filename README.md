@@ -8,5 +8,5 @@
 
 ## Halaman Login dengan Flutter
 
-### Output Program Page 1
+### Output Program
 ![Gambar 1](output.PNG) <br>
